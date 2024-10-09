@@ -1,0 +1,15 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+#letters {
+  font-size: 2em;
+  margin: 20px;
+  letter-spacing: 10px; /* Add space between letters */
+}
+
+#guess {
+  font-size: 1.2em;
+  padding: 10px;
+}
